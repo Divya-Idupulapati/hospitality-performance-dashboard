@@ -1,6 +1,6 @@
 # 🏨 Hospitality Revenue Insights Dashboard
 
-A comprehensive Power BI dashboard designed to provide deep insights into key hotel performance metrics such as RevPAR, ADR, Occupancy %, and Realisation %. This solution enables hospitality leaders to monitor trends, benchmark performance, and make data-driven decisions across cities, room classes, and booking platforms.
+**Hotel Analytics Solution** | Power BI • Excel • Hospitality KPIs • BI Reporting • Revenue Optimization  
 
 ---
 
