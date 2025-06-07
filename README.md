@@ -1,10 +1,10 @@
-# 🏨 Hospitality Revenue Insights Dashboard
+# Hospitality Revenue Insights Dashboard
 
 **Hotel Analytics Solution** | Power BI • Excel • Hospitality KPIs • BI Reporting • Revenue Optimization  
 
 ---
 
-## 🗂️ Table of Contents
+## Table of Contents
 
 - [Project Summary](#project-summary)  
 - [Business Challenge](#business-challenge)  
@@ -18,19 +18,19 @@
 
 ---
 
-## 📌 Project Summary
+##  Project Summary
 
 This project delivers a dynamic and interactive Power BI dashboard that visualizes operational and financial performance across multiple hotel properties. Key metrics such as Revenue, RevPAR, ADR, DSRN, Occupancy %, Realisation %, and Cancellation % are calculated and visualized to help stakeholders monitor business health and optimize operations.
 
 ---
 
-## 🧩 Business Challenge
+## Business Challenge
 
 The organization faced declining revenue and inconsistent occupancy trends due to limited access to consolidated performance data. Decision-making was reactive and lacked a centralized view of operations across cities, properties, and booking platforms. An analytics-driven dashboard was needed to improve visibility and enable proactive strategies.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Visualize critical KPIs: Revenue, Occupancy %, RevPAR, ADR, Realisation, and Cancellations.
 - Identify trends across weekdays, weekends, and weeks.
@@ -40,7 +40,7 @@ The organization faced declining revenue and inconsistent occupancy trends due t
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool     | Purpose                                |
 |----------|----------------------------------------|
@@ -49,7 +49,7 @@ The organization faced declining revenue and inconsistent occupancy trends due t
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 1. **Data Ingestion**  
    Loaded structured datasets including hotel metadata, room types, booking transactions, and calendar dimensions.
@@ -81,7 +81,7 @@ The organization faced declining revenue and inconsistent occupancy trends due t
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - **Total Revenue**: ₹1.69B with a 57.8% average occupancy rate.
 - **High Realisation %**: Achieved ~70% across most booking platforms.
@@ -93,7 +93,7 @@ The organization faced declining revenue and inconsistent occupancy trends due t
 
 ---
 
-## 💡 Strategic Recommendations
+##  Strategic Recommendations
 
 - **Boost Direct Bookings**  
   Increase focus on direct booking platforms to enhance profitability.
@@ -112,7 +112,7 @@ The organization faced declining revenue and inconsistent occupancy trends due t
 
 ---
 
-## 📈 Business Impact
+##  Business Impact
 
 - Centralized view of all key hotel metrics across the business.
 - Data-backed decision-making at operational and executive levels.
@@ -121,7 +121,7 @@ The organization faced declining revenue and inconsistent occupancy trends due t
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Divya Idupulapati**  
 📍 San Marcos, TX  
